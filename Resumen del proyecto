@@ -1,0 +1,38 @@
+Proyecto funcional de la asignatura de Desarrollo de Aplicaciones Multimedia.
+Resumen del Juego Desarrollado
+Este juego es un survival arcade 3D ambientado en un escenario donde el jugador debe enfrentarse a oleadas de enemigos cada vez más desafiantes. El objetivo principal es sobrevivir el mayor tiempo posible, acumular puntos eliminando enemigos y superar la mayor puntuación registrada.
+
+Características Principales
+Mecánicas del Jugador
+
+El jugador tiene un sistema de vidas limitado. Al llegar a 0, el juego termina.
+Se utiliza un sistema de animaciones para las acciones del jugador, incluida una animación específica para la muerte.
+Al morir, el jugador puede reiniciar el juego y comenzar desde la oleada inicial.
+Sistema de Oleadas
+
+Las oleadas incrementan en dificultad: cada oleada genera más enemigos en ubicaciones aleatorias del mapa.
+El número de enemigos vivos es constantemente monitorizado, y al eliminarlos todos, se avanza a la siguiente oleada.
+Un sistema de interfaz muestra la oleada actual y actualiza dinámicamente su progreso.
+Gestión de Puntos y Mayor Puntuación
+
+Cada enemigo derrotado otorga puntos al jugador.
+El juego registra y muestra la mayor puntuación obtenida durante la partida actual.
+La puntuación y la mayor puntuación se actualizan en tiempo real y se reflejan en el HUD.
+Interfaz y Experiencia del Usuario
+
+Pantalla inicial con un menú que permite comenzar el juego o salir.
+Un HUD dinámico que informa al jugador de su número de vidas, puntos, oleadas y la mayor puntuación.
+Efectos visuales y sonoros durante eventos clave, como la muerte del jugador o cambios de oleada.
+Audio Dinámico
+
+La música del juego cambia de forma dinámica según el estado del jugador:
+Cuando queda una sola vida, se reproduce música tensa.
+Al morir, una música específica señala el final de la partida.
+Sistema de Enemigos
+
+Los enemigos (zombis) se generan en ubicaciones aleatorias, manteniendo una distancia mínima del jugador para evitar una aparición injusta.
+Las oleadas son infinitas, con un aumento progresivo en la cantidad de zombis por oleada.
+Desafíos Técnicos Abordados
+Se implementaron soluciones para optimizar la reproducción de animaciones y evitar problemas al estar rodeado de muchos enemigos.
+Se ajustaron los scripts para garantizar que los datos importantes, como la puntuación y las vidas, se actualicen correctamente en tiempo real.
+Se integraron elementos visuales y de diseño como imágenes de fondo, fuentes personalizadas y textos dinámicos para mejorar la experiencia del jugador.
