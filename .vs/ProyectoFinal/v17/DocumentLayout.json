@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alvaro\\ProyectoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Alvaro\\ProyectoFinal\\assets\\scripts\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|c:\\users\\alvaro\\proyectofinal\\assets\\scripts\\avancebala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\avancebala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Alvaro\\ProyectoFinal\\assets\\scripts\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Alvaro\\ProyectoFinal\\assets\\scripts\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Alvaro\\ProyectoFinal\\assets\\scripts\\gestionpuntos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gestionpuntos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Alvaro\\ProyectoFinal\\assets\\scripts\\generador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\generador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|C:\\Users\\Alvaro\\ProyectoFinal\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C531D86-F514-8865-5267-1058EFED5D33}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Generador.cs",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\ProyectoFinal\\Assets\\Scripts\\Generador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Generador.cs",
+              "ToolTip": "C:\\Users\\Alvaro\\ProyectoFinal\\Assets\\Scripts\\Generador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Generador.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:24:35.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\ProyectoFinal\\Assets\\Scripts\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Alvaro\\ProyectoFinal\\Assets\\Scripts\\MenuPrincipal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:14:18.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemigo.cs",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\ProyectoFinal\\Assets\\Scripts\\Enemigo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemigo.cs",
+              "ToolTip": "C:\\Users\\Alvaro\\ProyectoFinal\\Assets\\Scripts\\Enemigo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemigo.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAIwG8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:00:45.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\ProyectoFinal\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Alvaro\\ProyectoFinal\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:53:31.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GestionPuntos.cs",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\ProyectoFinal\\Assets\\Scripts\\GestionPuntos.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GestionPuntos.cs",
+              "ToolTip": "C:\\Users\\Alvaro\\ProyectoFinal\\Assets\\Scripts\\GestionPuntos.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GestionPuntos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:30:57.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "avanceBala.cs",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\ProyectoFinal\\Assets\\Scripts\\avanceBala.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\avanceBala.cs",
+              "ToolTip": "C:\\Users\\Alvaro\\ProyectoFinal\\Assets\\Scripts\\avanceBala.cs",
+              "RelativeToolTip": "Assets\\Scripts\\avanceBala.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:30:22.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mover.cs",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\ProyectoFinal\\Assets\\Scripts\\Mover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mover.cs",
+              "ToolTip": "C:\\Users\\Alvaro\\ProyectoFinal\\Assets\\Scripts\\Mover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mover.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowN8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:27:37.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
